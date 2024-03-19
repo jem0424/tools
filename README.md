@@ -1,0 +1,1 @@
+This is a repository featuring all my functions and objects used throughout my software career. 
